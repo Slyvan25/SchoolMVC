@@ -1,6 +1,6 @@
 <?php
 include('core/mvc.php');
-//include("core/autoloader.php"); //TODO
+include("core/autoloader.php"); //TODO
 
 use core\classes\database;
 
