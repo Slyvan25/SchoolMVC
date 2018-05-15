@@ -1,6 +1,6 @@
 <?php
 
-public function run(){
+ function run(){
     spl_autoload_register(
         function ($class){
             $class = strtolower(str_replace("\\","/",$class));
