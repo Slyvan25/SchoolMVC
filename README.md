@@ -1,8 +1,8 @@
 <h1><strong>SchoolMVC</strong></h1>
 
-This MVC framework is an framework i made for school.. it's not that advanced yet....
+This MVC framework is an framework i made for a school assignment, although it's not that advanced yet.
 
-<h4><strong>about</strong></h4>
+<h4><strong>About: </strong></h4>
 
 Folders for frontend developers:
  - Public
@@ -12,6 +12,6 @@ Folders for Backend Developers
  - Core
  - Controller
  
-<strong>Todo:</strong>
+<strong>To do:</strong>
  - Admin Panel
  - more Page 
